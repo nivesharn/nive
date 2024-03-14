@@ -1,0 +1,37 @@
+.nothing
+{
+    height: 200px;
+    position: fixed;
+    top: 40%;
+    left: 45%;
+    margin-top: -100px;
+    margin-left: -200px;
+    text-align: justify;
+    color: black;
+    font-size:100px;
+
+}
+
+.close
+{
+    height: 100px;
+    position: fixed;
+    top: 70%;
+    left: 45%;
+    margin-top: -100px;
+    margin-left: -200px;
+    text-align: justify;
+    color: black;
+    font-size:50px;
+}
+
+.em 
+{
+    height: 100px;
+    position: fixed;
+    top: 60%;
+    left: 40%;
+    font-size:100px;
+
+
+}
